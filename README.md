@@ -1,0 +1,4 @@
+shinyTestCase
+=============
+
+Testcase for shiny
